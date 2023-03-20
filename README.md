@@ -1,3 +1,3 @@
 # fullstackopen
 
-Course assignments for Full Openstack
+Code for Full Openstack
