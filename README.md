@@ -1,3 +1,1 @@
-# fullstackopen
-
-Code for Full Openstack
+# Code for Fullstack Open
